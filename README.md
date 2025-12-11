@@ -28,6 +28,7 @@ Number of Doors
 The goal is to clean the dataset, transform inconsistent values, visualize key insights, and understand patterns in vehicle characteristics.
 
 📁 Project Steps
+
 🔹 1. Importing Libraries
 
 Used essential Python libraries such as:
@@ -70,6 +71,7 @@ Engine Cylinders = 0.0 (invalid)
 Number of Doors = 3.0 (uncommon/incorrect)
 
 ✔ Cleaning Categorical Columns
+
 🔸 Engine Fuel Type
 
 Merged similar fuel names into simplified groups such as:
@@ -188,4 +190,5 @@ This project showcases strong data cleaning, preprocessing, exploratory analysis
 
 
 Soham Patel
+
 Machine Learning | Deep Learning | GenAI | Computer Vision | Date Analysis
